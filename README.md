@@ -1,6 +1,14 @@
 # ProblemSolving
 
-Solutions to some of the famous programming and math competition websites.
+This repository contains all the code and solutions that I am personally attempting to improve my skills. I am attempting to solve problems from famous online programming competition sites and also from offline books on various subjects.
+
+####Start date:
+
+Sunday, July 10th 2016
+
+####End Date:
+
+in progress...
 
 ### Books:
 - To be added soon
