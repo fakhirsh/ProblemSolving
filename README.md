@@ -5,7 +5,7 @@ Solutions to some of the famous programming and math competition websites.
 ### Books:
 - To be added soon
 
-### Links to the online websites:
+### Online websites:
 
 * [Project Euler](https://projecteuler.net/)
 * [CodeChef](https://www.codechef.com/)
