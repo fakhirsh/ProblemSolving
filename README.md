@@ -3,7 +3,7 @@
 Solutions to some of the famous programming and math competition websites.
 
 ### Books:
-
+- To be added soon
 
 ### Links to the online websites:
 
